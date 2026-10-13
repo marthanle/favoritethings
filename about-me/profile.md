@@ -18,7 +18,8 @@ added: 2026-10-13
 
 ## Interests
 - **Traveling** (my big one) and adventure activities: rafting, hiking, skiing, paragliding, skydiving
-- **Food!** Pizza, sushi, poke, Asian food, matcha, tiramisu, trying new restaurants
+- **Food!** Pizza, sushi, poke, Asian food, matcha, tiramisu, shave ice, trying new restaurants
+- Running (I do races)
 - Shopping, fashion, and bags
 - Hanging out with friends, going to concerts, and seeing musicals
 - Anime: into *One Piece* right now, and Studio Ghibli

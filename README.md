@@ -11,7 +11,7 @@ are specific to me instead of generic.
 | `about-me/` | Short profile: background, goals, interests, preferences. **Start here.** |
 | `work-samples/` | My best / most useful pieces of work (essays, code, projects, designs). |
 | `writing-style/` | How I write and talk; examples of my voice; words I like and avoid. |
-| `favorites/` | Things I love, one file per item, sorted by category (`fashion-shopping/`, `food/`, `travel-adventure/`, `film-tv/`, `music-concerts/`, `social/`, `books/`, `tools-apps/`). |
+| `favorites/` | Things I love, one file per item, sorted by category (`fashion-shopping/`, `food/`, `travel-adventure/`, `film-tv/`, `music-concerts/`, `social/`, `fitness/`, `books/`, `tools-apps/`). |
 | `images/` | Photos and visuals. Entries link to them with the `images:` field. |
 | `prompts/` | Prompts that gave me great results, with notes on why they worked. |
 | `references/` | Articles, links, and notes I keep coming back to. |
