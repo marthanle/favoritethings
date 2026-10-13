@@ -18,9 +18,9 @@ added: 2026-10-13
 
 ## Interests
 - **Traveling** (my big one) and adventure activities: rafting, hiking, paragliding, skydiving
-- **Food!** Pizza, sushi, Asian food
+- **Food!** Pizza, sushi, Asian food, matcha desserts, trying new restaurants
 - Shopping, fashion, and bags
-- Hanging out with friends and going to concerts
+- Hanging out with friends, going to concerts, and seeing musicals
 - Anime: into *One Piece* right now, and Studio Ghibli
 - TV: K-dramas, plus American shows like *Friends*, *Criminal Minds*, and *Grey's Anatomy*
 

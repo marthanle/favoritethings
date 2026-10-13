@@ -4,7 +4,7 @@ category: food
 tags: [food, sushi, japanese, asian-food]
 rating: 5
 added: 2026-10-13
-images: [images/food-sushi-uni-omakase.jpg]
+images: [images/food-sushi-uni-omakase.jpg, images/food-sushi-toro-uni-handroll.jpg]
 ---
 
 ## What it is
@@ -15,3 +15,4 @@ Sushi and Japanese food.
 
 ## Notes
 - Photo: uni (sea urchin) on seared beef/fatty nigiri at an omakase sushi counter.
+- Photo: a hand roll with fatty tuna (toro) under seared fish and uni.
