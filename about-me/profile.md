@@ -17,8 +17,8 @@ added: 2026-10-13
 - Goals for this class / this year:
 
 ## Interests
-- **Traveling** (my big one) and adventure activities: rafting, hiking, paragliding, skydiving
-- **Food!** Pizza, sushi, Asian food, matcha desserts, trying new restaurants
+- **Traveling** (my big one) and adventure activities: rafting, hiking, skiing, paragliding, skydiving
+- **Food!** Pizza, sushi, poke, Asian food, matcha, tiramisu, trying new restaurants
 - Shopping, fashion, and bags
 - Hanging out with friends, going to concerts, and seeing musicals
 - Anime: into *One Piece* right now, and Studio Ghibli

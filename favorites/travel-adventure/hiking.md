@@ -4,7 +4,7 @@ category: travel-adventure
 tags: [adventure, outdoors, nature]
 rating: 4
 added: 2026-10-13
-images: []
+images: [images/travel-hiking-waterfall.jpg]
 ---
 
 ## What it is
@@ -14,3 +14,4 @@ Hiking and trails.
 <!-- Favorite hikes so far? Short day hikes or big challenges? -->
 
 ## Notes
+- Photo: on a forest trail beside a tall waterfall that drops past a mossy rock cliff into a pool.
