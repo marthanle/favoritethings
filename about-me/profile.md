@@ -21,7 +21,7 @@ added: 2026-10-13
 - **Food!** Pizza, sushi, poke, Asian food, matcha, tiramisu, shave ice, trying new restaurants
 - Running (I do races)
 - Shopping, fashion, and bags
-- Hanging out with friends, going to concerts, and seeing musicals
+- Hanging out with friends (bowling, Friendsgiving), going to concerts (e.g. Khalid), and seeing musicals
 - Anime: into *One Piece* right now, and Studio Ghibli
 - TV: K-dramas, plus American shows like *Friends*, *Criminal Minds*, and *Grey's Anatomy*
 

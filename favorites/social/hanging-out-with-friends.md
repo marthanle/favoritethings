@@ -4,7 +4,7 @@ category: social
 tags: [friends, social]
 rating: 4
 added: 2026-10-13
-images: [images/travel-tokyo-street-karting-friends.jpg, images/food-tiramisu-friendsgiving.jpg]
+images: [images/travel-tokyo-street-karting-friends.jpg, images/food-tiramisu-friendsgiving.jpg, images/friends-bowling-scoreboard.jpg]
 ---
 
 ## What it is
@@ -16,3 +16,4 @@ Spending time with friends.
 ## Notes
 - Photo: a group of friends street go-karting in Shibuya, Tokyo.
 - Photo: Friendsgiving at home, with a "happy friendsgiving" banner and lots of dishes.
+- Photo: a bowling night: scoreboard showing "Beb" 147 vs "Babe" 88, with a selfie on the screen.
