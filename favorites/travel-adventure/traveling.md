@@ -4,7 +4,7 @@ category: travel-adventure
 tags: [travel, adventure]
 rating: 5
 added: 2026-10-13
-images: [images/travel-paragliding-tandem.jpg, images/travel-skydiving-freefall.jpg]
+images: [images/travel-paragliding-tandem.jpg, images/travel-skydiving-freefall.jpg, images/travel-canoe-mountain-lake.jpg]
 ---
 
 ## What it is
@@ -15,3 +15,4 @@ Traveling to new places, one of my biggest passions.
 
 ## Notes
 - Photo: paragliding over mountains and a lake, and skydiving above the clouds.
+- Photo: canoeing with a friend on a bright turquoise glacier lake, surrounded by pine forest and jagged mountains.
