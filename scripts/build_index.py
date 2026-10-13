@@ -6,7 +6,7 @@ Usage: python3 scripts/build_index.py
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SKIP_DIRS = {"_templates", "scripts", ".git"}
+SKIP_DIRS = {"_templates", "scripts", "images", ".git"}
 SKIP_FILES = {"README.md", "AGENTS.md", "CLAUDE.md", "INDEX.md"}
 
 

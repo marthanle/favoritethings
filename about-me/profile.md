@@ -17,7 +17,12 @@ added: 2026-10-13
 - Goals for this class / this year:
 
 ## Interests
--
+- **Traveling** (my big one) and adventure activities: rafting, hiking, paragliding, skydiving
+- **Food!** Pizza, sushi, Asian food
+- Shopping, fashion, and bags
+- Hanging out with friends and going to concerts
+- Anime: into *One Piece* right now, and Studio Ghibli
+- TV: K-dramas, plus American shows like *Friends*, *Criminal Minds*, and *Grey's Anatomy*
 
 ## How I like AI to help me
 - Tone (casual, formal, playful...):
